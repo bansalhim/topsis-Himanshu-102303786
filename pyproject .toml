@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
@@ -29,3 +30,36 @@ Repository = "https://github.com/your-username/Topsis-Himanshu-102303786"
 pandas = ">=1.0"
 numpy = ">=1.20"
 openpyxl = ">=3.0"
+=======
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Topsis-Himanshu-102303786"
+version = "0.1.0"
+description = "A Python implementation of TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    { name="Himanshu Bansal", email="himanshubansal162005@gmail.com" }
+]
+license = { file="LICENSE" }
+keywords = ["TOPSIS", "Decision-Making", "Multi-Criteria Decision"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+
+[project.urls]
+Homepage = "https://github.com/your-username/Topsis-Himanshu-102303786"
+Documentation = "https://github.com/your-username/Topsis-Himanshu-102303786#readme"
+Repository = "https://github.com/your-username/Topsis-Himanshu-102303786"
+
+[project.dependencies]
+pandas = ">=1.0"
+numpy = ">=1.20"
+openpyxl = ">=3.0"
+>>>>>>> d82e8fbb6fed49fc2bd9abdd3da66cc94a064bc7
