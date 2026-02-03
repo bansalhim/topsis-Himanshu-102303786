@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 pandas
 numpy
-=======
-pandas
-numpy
->>>>>>> d82e8fbb6fed49fc2bd9abdd3da66cc94a064bc7
